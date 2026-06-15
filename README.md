@@ -1,6 +1,6 @@
 # Network Recon Toolkit
 
-A Python and Bash-based Network Reconnaissance Toolkit designed to perform host discovery, network information gathering, and port enumeration. This project demonstrates practical networking, security automation, and reconnaissance concepts commonly used by cybersecurity professionals during security assessments and investigations.
+A Python and Bash based Network Reconnaissance Toolkit designed to perform host discovery, network information gathering, and port enumeration. This project demonstrates practical networking, security automation and reconnaissance concepts commonly used by cybersecurity professionals during security assessments and investigations.
 
 ## Project Overview
 
